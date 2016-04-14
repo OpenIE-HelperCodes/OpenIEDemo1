@@ -6,7 +6,7 @@ Download the required version of openIE from https://github.com/knowitall/openie
 
 The project has been made with version v4.2.1, & downloaded the zip from https://github.com/knowitall/openie/archive/v4.2.1.zip.
 
-Run sbt -J-Xmx2700M clean compile assembly
+Run 'sbt -J-Xmx2700M clean compile assembly'
 
 Add the jar(openie-4.2.1/target/scala-2.10/openie-assembly-4.2.1.jar) to the project classpath.
 
